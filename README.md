@@ -30,7 +30,7 @@ A=np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
-
+```
 (ii) To find the LU Decomposition of a matrix
 Program to find the LU Decomposition of a matrix.
 Developed by: SANTHI P 
